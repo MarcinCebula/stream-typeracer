@@ -42,7 +42,7 @@ export default function Document() {
         />
         <meta
           property="og:image"
-          content="stream-typeracer.vercel.app/card.png"
+          content="stream-typeracer.vercel.app/card.jpg"
         />
         <meta property="og:url" content="stream-typeracer.vercel.app" />
 
@@ -58,7 +58,7 @@ export default function Document() {
         />
         <meta
           name="twitter:image"
-          content="stream-typeracer.vercel.app/card.png"
+          content="stream-typeracer.vercel.app/card.jpg"
         />
 
         <link rel="preconnect" href="https://fonts.googleapis.com" />
