@@ -1,28 +1,10 @@
-# Create T3 App
+# Multiplayer TypeRacer with replicache
 
-This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
+Unleash your typing speed with our brand new MultiPlayer TypeRacer game on Twitch! We bring you an exhilarating gaming experience, powered by modern tech stack including TypeScript, T3, ReactJS, Next.JS, and enhanced by Replicache for seamless gameplay. Challenge your friends, compete with global players, and climb up the leaderboard. Are you ready to show off your typing skills?
 
-## What's next? How do I make an app with this?
+## Title
+"TypeRacer Multiplayer on Twitch - The Ultimate Typing Challenge"
 
-We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
+## Description
+"Step into the world of TypeRacer Multiplayer on Twitch. Powered by advanced technology, our game offers a thrilling, real-time, multiplayer typing experience. Unleash your typing speed, compete with global players, and rise to the top. Your keyboard is your weapon. Start racing now!"
 
-If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join our [Discord](https://t3.gg/discord) and ask for help.
-
-- [Next.js](https://nextjs.org)
-- [NextAuth.js](https://next-auth.js.org)
-- [Prisma](https://prisma.io)
-- [Tailwind CSS](https://tailwindcss.com)
-- [tRPC](https://trpc.io)
-
-## Learn More
-
-To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the following resources:
-
-- [Documentation](https://create.t3.gg/)
-- [Learn the T3 Stack](https://create.t3.gg/en/faq#what-learning-resources-are-currently-available) — Check out these awesome tutorials
-
-You can check out the [create-t3-app GitHub repository](https://github.com/t3-oss/create-t3-app) — your feedback and contributions are welcome!
-
-## How do I deploy this?
-
-Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
